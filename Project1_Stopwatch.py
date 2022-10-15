@@ -40,13 +40,13 @@ def Start(label):
     reset['state'] = 'normal'
     
     
-def Start(label):
+def stop():
     global running
-    running = True
-    counterlabel(label)
-    start['state'] = 'disabled'
-    stop['state'] = 'normal'
+    running = False
+    start['state'] = 'normal'
+    stop['state'] = 'disabled'
     reset['state'] = 'normal'
+    
 
 def Reset(label):
     global counter
