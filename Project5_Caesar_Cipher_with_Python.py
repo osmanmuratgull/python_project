@@ -39,4 +39,4 @@ def getMessage(message,key,type):
 type = getType()
 key = getKey()
 message = input("Enter a message.......: ")
-print("Translated message......: {}".format(getMessage(message,key,type)))
+print("Translated message.......: {}".format(getMessage(message,key,type)))
