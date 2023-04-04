@@ -4,8 +4,7 @@
 # User Login
 userName = str(input("Please Enter Your Username....:"))
 password = input("Please Enter Your Password.....:")
-print("1- Shows Balance!", " ", "2-Loads Money!",
-      " ", "3- Withdraws Money from Account!", "4-Quit")
+print("1- Shows Balance!\n", "2-Loads Money!\n", "3- Withdraws Money from Account!\n", "4-Quit")
 balance = 0
 
 while True:
