@@ -1,2 +1,2 @@
 # python_project
-genel python denemeleri
+Genel python denemeleri
