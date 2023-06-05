@@ -7,3 +7,4 @@ Bu, genel Python projeleri deposudur. Bu depoda, Python programlama dili kullan�
 Eğer bu depoya katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 1. Depoyu kendi GitHub hesabınıza forklayın.
 2. Forkladığınız depoyu kendi bilgisayarınıza klonlayın.
+3. Projeye yıldız verebilirsiniz.
